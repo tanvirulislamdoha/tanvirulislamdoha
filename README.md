@@ -1,3 +1,5 @@
+![Tanvirul Islam (3)](https://user-images.githubusercontent.com/76810041/159139001-14bc6663-3654-4504-9b4e-b4146622c395.gif)
+
 <h1 align="center">Hey 👋, I'm Tanvir..!</h1>
 <h3 align="center">an apprentice Full-Stack Developer</h3>
 
@@ -5,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanvirulislamdoha" alt="tanvirulislamdoha" /></a> </p>
 
-- 🌱 I’m currently learning **MERN stck development**
+- 🌱 I’m currently workin on **MERN stck development**
 
 - 💬 Ask me about **JavaScript, React, PHP**
 
