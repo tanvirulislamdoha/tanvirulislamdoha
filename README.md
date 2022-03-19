@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanvirulislamdoha" alt="tanvirulislamdoha" /></a> </p>
 
-- 🌱 I’m currently workin on **MERN stck development**
+- 🌱 I’m currently working on **MERN stck development**
 
 - 💬 Ask me about **JavaScript, React, PHP**
 
