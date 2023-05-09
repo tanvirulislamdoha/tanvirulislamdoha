@@ -1,13 +1,13 @@
 ![Tanvirul Islam (3)](https://user-images.githubusercontent.com/76810041/159139001-14bc6663-3654-4504-9b4e-b4146622c395.gif)
 
 <h1 align="center">Hey 👋, I'm Tanvir..!</h1>
-<h3 align="center">an apprentice Full-Stack Developer</h3>
+<h3 align="center">a Full-Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanvirulislamdoha&label=Profile%20views&color=0e75b6&style=flat" alt="tanvirulislamdoha" /> </p>
 
 
 
-- 💬 Ask me about **JavaScript, React, PHP**
+- 💬 Ask me about **JavaScript, PHP**
 
 - 📫 How to reach me **tanvirulislam857@gmail.com**
 
