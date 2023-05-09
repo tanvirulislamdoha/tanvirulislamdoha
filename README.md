@@ -3,7 +3,7 @@
 <h1 align="center">Hey 👋, I'm Tanvir..!</h1>
 <h3 align="center">a Full-Stack Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tanvirulislamdoha&label=Profile%20views&color=0e75b6&style=flat" alt="tanvirulislamdoha" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanvirulislamdoha&label=Profile%20views&color=0e75b6&style=flat" alt="tanvirulislamdoha" /> </p> -->
 
 
 
