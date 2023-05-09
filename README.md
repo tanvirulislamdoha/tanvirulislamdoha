@@ -7,9 +7,9 @@
 
 
 
-- 💬 Ask me about **JavaScript, PHP**
+- ***JavaScript, PHP***
 
-- 📫 How to reach me **tanvirulislam857@gmail.com**
+- mail at **tanvirulislam857@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
